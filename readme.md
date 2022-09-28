@@ -1,3 +1,3 @@
-git and gitHab courses
+git and gitHub courses
 
 crash courses
